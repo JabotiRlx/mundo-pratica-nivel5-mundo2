@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "mongoose": "^7.2.3"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}

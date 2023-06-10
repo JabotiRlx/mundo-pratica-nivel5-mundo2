@@ -1,0 +1,7 @@
+.main {
+    text-align: center;
+    height: 1000px;
+    overflow: auto;
+    margin-top: 10%;
+    font-size: large;
+}
